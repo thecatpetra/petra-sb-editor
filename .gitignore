@@ -1,0 +1,14 @@
+*.beam
+*.swp
+.DS_Store
+tmp
+*.native
+*.byte
+_build/
+bin/configlet
+**/*.exe
+.psc-ide-port
+
+.merlin
+_opam
+node_modules
